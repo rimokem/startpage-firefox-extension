@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Startpage Nicer Title Extension",
-  "version": "1.1",
-  "description": "Add Search Keywords of Startpge to your browser's title",
+  "version": "1.2",
+  "description": "Discover the perfect blend of privacy and convenience with this Chrome extension designed specifically for Startpage users. While Startpage is renowned for its exceptional privacy features, including not storing search keywords in the browser's <title> tag, this can make tab management challenging, especially when you have multiple searches open at the same time.\n\nThis extension offers a seamless solution: it smartly integrates search keywords into the window title of each Startpage tab. This means you can enjoy the high-level privacy you love about Startpage, without sacrificing the ease of navigating between multiple search results. With this extension, you can effortlessly identify and switch to the tab you need, enhancing your browsing experience while keeping your searches private and secure.\n\nEmbrace the change that combines the best of both worlds – privacy without compromise. Try our Chrome extension today and transform the way you search with Startpage!",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
