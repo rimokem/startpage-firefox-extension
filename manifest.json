@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Startpage Nicer Title Extension",
+  "name": "Startpage Nicer Title Extension for Firefox",
   "version": "1.2",
   "description": "Add Search Query for Startpge to the browser's title bar",
   "icons": {

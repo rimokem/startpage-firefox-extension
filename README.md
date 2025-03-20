@@ -1,3 +1,4 @@
-# Startpage Chrome Extension
+# Startpage Firefox Extension
+It's available at Firefox Add-ons: [Firefox Add-ons リンク]
 
-It's available at Chrome Web Store: https://chromewebstore.google.com/detail/bnmehmalocfmlifckddiolikhcdkaifa
+*Note: This is a port of the original Chrome extension created by Yasunori Mahata. I only tested and verified that it works on Firefox without any modifications.*
